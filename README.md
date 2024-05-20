@@ -30,6 +30,7 @@ Backgrounds
 - [ ] Forest
 - [ ] Town
 - [ ] Castle
+- [ ] Throne Room
 
 Character Sprites
 - [ ] Wolf
@@ -40,6 +41,23 @@ Character Sprites
 - [ ] Guard Demon (optional)
 - [ ] Demon Lord
 
+Music
+- [ ] Ethereal
+- [ ] Spooky
+- [ ] Battle
+- [ ] Happy
+
+Sound Effects
+- [ ] Bird caw
+- [ ] Wind
+- [ ] Footsteps (ch ch ch ch)
+- [ ] Wolf Howl
+- [ ] Magic sounds? (whoosh)
+- [ ] Claw/sword swipe (sshing)
+- [ ] Scream
+- [ ] Punch (wa-pow)
+- [ ] Static
+
 ### Scrapyard
 
 These are ideas that had to be cut for the sake of time and/or sanity...
@@ -47,10 +65,10 @@ These are ideas that had to be cut for the sake of time and/or sanity...
 Male "love interests":
 - Encounter: Hunter (older guy)
 - Encounter: Prince
-- Encounter: Demon Lord
+- Encounter: Demon Lord (romantic)
 
 ---
 
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://gitlab.com/anigrams-productions/games/game-jams/worst-vn-ever-2024">Ace in Another World: That Time You Were Reincarnated In A Fantasy World Surrounded By Beautiful Women But Weren't Interested In Any of Them!!</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://anigramsproductions.com">Anigrams Productions</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://gitlab.com/anigrams-productions/games/game-jams/worst-vn-ever-2024">Ace in Another World: That Time You Were Reincarnated In A Fantasy World Surrounded By Beautiful Women But Weren't Interested In Any of Them!!</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://anigramsproductions.com">Anigrams Productions</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0</a>.</p>
 
 You can distribute, remix, adapt, and build upon this material in any medium or format, for commercial or non-commercial use, as long as attribution is given to <a href="https://anigramsproductions.com">Anigrams Productions</a> as the creator of the original work.
