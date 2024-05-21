@@ -30,7 +30,6 @@ Backgrounds
 - [ ] Forest
 - [ ] Town
 - [ ] Castle
-- [ ] Throne Room
 
 Character Sprites
 - [ ] Wolf
@@ -40,6 +39,12 @@ Character Sprites
 - [ ] Princess
 - [ ] Guard Demon (optional)
 - [ ] Demon Lord
+
+Details
+- [ ] Two-headed bird
+- [ ] Pouch
+- [ ] elaborate door
+- [ ] Throne
 
 Music
 - [ ] Ethereal
