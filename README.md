@@ -7,7 +7,7 @@ You can also consent to having your game be "fixed" as part of the [Fixit VN Jam
 ## Ace in Another World
 a.k.a. That Time You Were Reincarnated In A Fantasy World Surrounded By Beautiful Women But Weren't Interested In Any of Them!!
 
-Inspired by all of the isekai trash anime I've watched with my boyfriend, and all the times I wanted to tell the poor girls who throw themselves at the protagonist to _get a grip_ because they deserve so much better.
+Inspired by all the isekai trash anime I've watched with my boyfriend, and all the times I wanted to tell the poor girls who throw themselves at the protagonist to _get a grip_ because they deserve so much better.
 
 This game's got it all:
 * Overpowered protagonist for no reason
@@ -15,7 +15,7 @@ This game's got it all:
 * Decisions that have no impact or consequences
 * Anti-climactic final battle
 
-The story is written in second person ("you") and makes no references to the player's gender. The title is in reference to an asexual point of view, but the story makes no explicit references to the player's sexuality.
+The story is written in second person ("you") and makes no references to the player's gender. The title is in reference to the story being written with an asexual protagonist in mind, but it makes no explicit references to the player's sexuality.
 
 ### To-Do
 
@@ -57,6 +57,11 @@ Sound Effects
 - [ ] Scream
 - [ ] Punch (wa-pow)
 - [ ] Static
+
+Programming
+- [ ] Script
+- [ ] Title screen
+- [ ] GUI
 
 ### Scrapyard
 

@@ -1,1 +1,7 @@
 old-ideas/
+.vscode/
+log.txt
+cache/
+saves/
+*.rpyc
+*.rpymc
