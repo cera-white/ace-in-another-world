@@ -34,9 +34,25 @@ Backgrounds
 Character Sprites
 - [x] Wolf Girl
 - [x] Knight Captain
-- [ ] Princess
-- [ ] Demon Lord
+- [x] Princess
+- [x] Demon Lord
 - [x] Wolf (optional)
+
+Programming
+- [ ] Script
+- [ ] Title screen
+- [ ] GUI
+
+### Scrapyard
+
+These are ideas that had to be cut for the sake of time and/or sanity...
+
+Male "love interests":
+- Encounter: Hunter (older guy)
+- Encounter: Prince
+- Encounter: Demon Lord (romantic)
+
+Character Sprites
 - [ ] Flying Demon (optional)
 - [ ] Guard Demon (optional)
 
@@ -62,20 +78,6 @@ Sound Effects
 - [ ] Scream
 - [ ] Punch (wa-pow)
 - [ ] Static
-
-Programming
-- [ ] Script
-- [ ] Title screen
-- [ ] GUI
-
-### Scrapyard
-
-These are ideas that had to be cut for the sake of time and/or sanity...
-
-Male "love interests":
-- Encounter: Hunter (older guy)
-- Encounter: Prince
-- Encounter: Demon Lord (romantic)
 
 ---
 
