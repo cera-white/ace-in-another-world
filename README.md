@@ -27,18 +27,18 @@ Writing
 - [x] Finale
 
 Backgrounds
-- [ ] Forest
-- [ ] Town
-- [ ] Castle
+- [x] Forest
+- [x] Town
+- [x] Castle
 
 Character Sprites
-- [ ] Wolf
-- [ ] Wolf Girl
-- [ ] Knight Captain
-- [ ] Flying Demon (optional)
+- [x] Wolf Girl
+- [x] Knight Captain
 - [ ] Princess
-- [ ] Guard Demon (optional)
 - [ ] Demon Lord
+- [x] Wolf (optional)
+- [ ] Flying Demon (optional)
+- [ ] Guard Demon (optional)
 
 Details
 - [ ] Two-headed bird

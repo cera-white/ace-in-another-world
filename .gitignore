@@ -1,7 +1,10 @@
 old-ideas/
+references/
+sketches/
 .vscode/
 log.txt
 cache/
 saves/
 *.rpyc
 *.rpymc
+*.bak
