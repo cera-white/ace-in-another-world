@@ -3,6 +3,8 @@ references/
 sketches/
 .vscode/
 log.txt
+errors.txt
+traceback.txt
 cache/
 saves/
 *.rpyc

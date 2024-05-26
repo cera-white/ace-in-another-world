@@ -39,9 +39,9 @@ Character Sprites
 - [x] Wolf (optional)
 
 Programming
-- [ ] Script
-- [ ] Title screen
-- [ ] GUI
+- [x] Script
+- [x] Title screen
+- [x] GUI
 
 ### Scrapyard
 
