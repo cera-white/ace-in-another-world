@@ -53,31 +53,31 @@ Male "love interests":
 - Encounter: Demon Lord (romantic)
 
 Character Sprites
-- [ ] Flying Demon (optional)
-- [ ] Guard Demon (optional)
+- [x] Flying Demon (optional)
+- [x] Guard Demon (optional)
 
 Details
-- [ ] Two-headed bird
+- [x] Two-headed bird
 - [ ] Pouch
 - [ ] elaborate door
 - [ ] Throne
 
 Music
-- [ ] Ethereal
-- [ ] Spooky
-- [ ] Battle
-- [ ] Happy
+- [x] Ethereal
+- [x] Spooky
+- [x] Battle
+- [x] Happy
 
 Sound Effects
-- [ ] Bird caw
-- [ ] Wind
-- [ ] Footsteps (ch ch ch ch)
-- [ ] Wolf Howl
-- [ ] Magic sounds? (whoosh)
-- [ ] Claw/sword swipe (sshing)
-- [ ] Scream
-- [ ] Punch (wa-pow)
-- [ ] Static
+- [x] Bird caw
+- [x] Wind
+- [x] Footsteps (ch ch ch ch)
+- [x] Wolf Howl
+- [x] Magic sounds? (whoosh)
+- [x] Claw/sword swipe (sshing)
+- [x] Scream
+- [x] Punch (wa-pow)
+- [x] Static
 
 ---
 
